@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asael\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\task3Result\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{266B6F25-3D58-41D5-9EED-35F4C0E8E960}|task3Result\\task3Result.vcxproj|C:\\Users\\asael\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\task3Result\\task3Result\\SearchingApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{266B6F25-3D58-41D5-9EED-35F4C0E8E960}|task3Result\\task3Result.vcxproj|solutionrelative:task3Result\\SearchingApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266B6F25-3D58-41D5-9EED-35F4C0E8E960}|task3Result\\task3Result.vcxproj|C:\\Users\\asael\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\task3Result\\task3Result\\Searching.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{266B6F25-3D58-41D5-9EED-35F4C0E8E960}|task3Result\\task3Result.vcxproj|solutionrelative:task3Result\\Searching.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Searching.cpp",
+              "DocumentMoniker": "C:\\Users\\asael\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\task3Result\\task3Result\\Searching.cpp",
+              "RelativeDocumentMoniker": "task3Result\\Searching.cpp",
+              "ToolTip": "C:\\Users\\asael\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\task3Result\\task3Result\\Searching.cpp",
+              "RelativeToolTip": "task3Result\\Searching.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T01:37:22.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchingApp.cpp",
+              "DocumentMoniker": "C:\\Users\\asael\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\task3Result\\task3Result\\SearchingApp.cpp",
+              "RelativeDocumentMoniker": "task3Result\\SearchingApp.cpp",
+              "ToolTip": "C:\\Users\\asael\\Downloads\\3 UNIVERSITY\\CLASSES_TOPICS\\2 ALGORITHMS AND COMPLEX\\task3Result\\task3Result\\SearchingApp.cpp",
+              "RelativeToolTip": "task3Result\\SearchingApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T01:37:59.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

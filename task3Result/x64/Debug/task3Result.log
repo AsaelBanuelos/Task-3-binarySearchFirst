@@ -1,0 +1,48 @@
+﻿  Searching.cpp
+  SearchingApp.cpp
+C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\task3Result\Searching.cpp(54,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SearchingApp.cpp')
+      C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\task3Result\Searching.cpp(54,15):
+      the template instantiation context (the oldest one first) is
+          C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\task3Result\SearchingApp.cpp(15,17):
+          see reference to function template instantiation 'int binarySearch<int>(std::vector<int,std::allocator<int>>,T)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\task3Result\Searching.cpp(21,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SearchingApp.cpp')
+      C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\task3Result\Searching.cpp(21,20):
+      the template instantiation context (the oldest one first) is
+          C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\task3Result\SearchingApp.cpp(24,13):
+          see reference to function template instantiation 'int linearSearch<int>(std::vector<int,std::allocator<int>>,T)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\task3Result\Searching.cpp(77,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SearchingApp.cpp')
+      C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\task3Result\Searching.cpp(77,15):
+      the template instantiation context (the oldest one first) is
+          C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\task3Result\SearchingApp.cpp(34,13):
+          see reference to function template instantiation 'int binarySearchFirst<int>(std::vector<int,std::allocator<int>>,T)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\task3Result\Searching.cpp(10,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SearchingApp.cpp')
+      C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\task3Result\Searching.cpp(10,20):
+      the template instantiation context (the oldest one first) is
+          C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\task3Result\SearchingApp.cpp(61,14):
+          see reference to function template instantiation 'int linearSearch<int,11>(std::array<int,11>,T)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+  Generating Code...
+  task3Result.vcxproj -> C:\Users\asael\Downloads\3 UNIVERSITY\CLASSES_TOPICS\2 ALGORITHMS AND COMPLEX\task3Result\x64\Debug\task3Result.exe
